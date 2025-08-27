@@ -22,3 +22,7 @@ public class Switch {
         }
         
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 13ed063 (Intial Commit)
